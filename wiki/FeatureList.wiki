@@ -1,13 +1,16 @@
-List of candidate features to be implemented.
+*List of candidate features to be implemented*
 
 = Introduction =
 
-This page give an overview of the features that are to be implemented in 3rdspring.
+This page gives an overview of the features that are to be implemented in 3rdSpring.
 
 
-= Details =
+= Features =
+== Basic ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Basic features enable the core service intended to be provided by 3rdSpring:
+ * User registration and login
+ * Feed subscription and unsubscription
+ * RSS and Atom feed fead reading: in rich html format
+
+== Advanced ==
