@@ -1,4 +1,5 @@
 #summary Test for code block wiki syntax
+#labels Deprecated
 {{{
 public class Main {
 	public static void main(String[] args) {
