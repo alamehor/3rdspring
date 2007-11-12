@@ -1,4 +1,5 @@
-*List of candidate features to be implemented*
+#labels Featured,Phase-Requirements
+List of candidate features to be implemented.
 
 = Introduction =
 
