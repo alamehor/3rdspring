@@ -1,0 +1,29 @@
+#summary List of candidate features to be implemented.
+#labels Featured,Phase-Requirements
+
+= Introduction =
+
+This page gives an overview of the features that are to be implemented in 3rdSpring.
+
+
+= Features =
+== Basic ==
+
+Basic features enable the core service intended to be provided by 3rdSpring:
+ * User registration and login
+ * Feed subscription and unsubscription
+ * OPML import and export
+ * RSS and Atom feed preview: in rich html format
+
+== Advanced ==
+
+Advanced features are user friendly related features and experimental features
+ * feed items collection management
+ * generated pdf document archive
+ * shortcut keys navigation while previewing feeds
+ * add tags on feeds and feed items
+ * share feed items with friends
+ * dig feed items
+ * add comments on feed items
+ * support for other document format, e.g., html, doc, odt, etc
+ * download output as compressed archive
