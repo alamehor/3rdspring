@@ -1,0 +1,21 @@
+# Introduction #
+
+This page gives an overview of the features that are to be implemented in 3rdSpring.
+
+
+# Features #
+## Basic ##
+
+Basic features enable the core service intended to be provided by 3rdSpring:
+  * User registration and login
+  * Feed subscription and unsubscription
+  * RSS and Atom feed fead reading: in rich html format
+
+## Advanced ##
+
+Advanced features are user friendly related features and experimental features
+  * shortcut keys navigation while reading feeds
+  * add tags on feeds and feed items
+  * share feed items with friends
+  * dig feed items
+  * add comments on feed items
